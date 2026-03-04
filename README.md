@@ -191,5 +191,6 @@ For questions or support, please contact:
 
 - nagadileelarao [at] gmail [dot] com
 - rambabukushwaha04 [at] gmail [dot] com
+- sumit20singh20@gmail.com 
 
 **If you use this code or data, please cite this repository and acknowledge the authors.**
